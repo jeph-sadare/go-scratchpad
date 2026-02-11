@@ -1,3 +1,3 @@
-module com.example.tdd
+module com.example.tdd/hello
 
 go 1.25.4
