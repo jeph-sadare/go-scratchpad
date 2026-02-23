@@ -1,6 +1,6 @@
 package iteration
 
-import "string"
+import "strings"
 
 const repeatCount = 5
 
